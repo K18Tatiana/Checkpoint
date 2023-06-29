@@ -1,4 +1,4 @@
 # Checkpoint
 Luis Ojeda
-David Blanco
+David Fernando Blanco
 Tatiana Vega
